@@ -1,0 +1,9 @@
+{
+  "name": "Peregrine Construction Management Mobile App 2.0",
+  "description": "A comprehensive construction management platform with role-based access, real-time analytics, and incident reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
